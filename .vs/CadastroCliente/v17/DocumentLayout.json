@@ -1,0 +1,499 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|c:\\users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\painelfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\painelfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\cadastrarfilme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\cadastrarfilme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\atualizarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\atualizarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\excluirfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\excluirfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\excluirfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\excluirfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\escolhapainel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\escolhapainel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\painelfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\painelfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\atualizarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\atualizarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\escolhapainel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\escolhapainel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\telaloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\telaloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\telaloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\telaloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\consultarfilme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\consultarfilme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\cadastrarfilme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\cadastrarfilme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\atualizarfilme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\atualizarfilme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\telaloading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\telaloading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\cadastrarfilme2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\cadastrarfilme2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\cadastrarfilme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\cadastrarfilme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\cadastrarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\cadastrarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\cadastrarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\cadastrarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Form1.cs",
+              "RelativeToolTip": "CadastroCliente\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:52:22.408Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAO.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\DAO.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\DAO.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\DAO.cs",
+              "RelativeToolTip": "CadastroCliente\\DAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T12:41:09.36Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cadastrarFilme2.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme2.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\cadastrarFilme2.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme2.cs",
+              "RelativeToolTip": "CadastroCliente\\cadastrarFilme2.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:57:42.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\packages.config",
+              "RelativeDocumentMoniker": "CadastroCliente\\packages.config",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\packages.config",
+              "RelativeToolTip": "CadastroCliente\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-30T11:40:56.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExcluirFilme.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\ExcluirFilme.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\ExcluirFilme.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\ExcluirFilme.cs",
+              "RelativeToolTip": "CadastroCliente\\ExcluirFilme.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T13:53:31.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AtualizarFilme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\AtualizarFilme.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\AtualizarFilme.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\AtualizarFilme.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\AtualizarFilme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T13:41:55.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Form1.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T12:45:44.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\LoginAdmin.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\LoginAdmin.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\LoginAdmin.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\LoginAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:26:25.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PainelFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\PainelFuncionario.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\PainelFuncionario.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\PainelFuncionario.cs",
+              "RelativeToolTip": "CadastroCliente\\PainelFuncionario.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwDcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:57:28.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EscolhaPainel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\EscolhaPainel.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\EscolhaPainel.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\EscolhaPainel.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\EscolhaPainel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:39:43.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EscolhaPainel.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\EscolhaPainel.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\EscolhaPainel.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\EscolhaPainel.cs",
+              "RelativeToolTip": "CadastroCliente\\EscolhaPainel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:43:27.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExcluirFilme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\ExcluirFilme.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\ExcluirFilme.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\ExcluirFilme.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\ExcluirFilme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:31:22.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PainelFuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\PainelFuncionario.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\PainelFuncionario.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\PainelFuncionario.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\PainelFuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:55:36.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AtualizarFilme.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\AtualizarFilme.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\AtualizarFilme.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\AtualizarFilme.cs",
+              "RelativeToolTip": "CadastroCliente\\AtualizarFilme.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T13:39:57.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cadastrar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Cadastrar.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\Cadastrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:37:03.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Cadastrar.cs",
+              "RelativeToolTip": "CadastroCliente\\Cadastrar.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:20:14.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TelaLoading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\TelaLoading.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\TelaLoading.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\TelaLoading.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\TelaLoading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:31:49.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TelaLoading.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\TelaLoading.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\TelaLoading.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\TelaLoading.cs",
+              "RelativeToolTip": "CadastroCliente\\TelaLoading.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowDsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:44:55.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\LoginAdmin.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\LoginAdmin.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\LoginAdmin.cs",
+              "RelativeToolTip": "CadastroCliente\\LoginAdmin.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwFYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:46:34.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Form1.Designer.cs",
+              "RelativeToolTip": "CadastroCliente\\Form1.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAADgv7EAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:25:51.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConsultarFilme.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\ConsultarFilme.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\ConsultarFilme.Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\ConsultarFilme.Designer.cs",
+              "RelativeToolTip": "CadastroCliente\\ConsultarFilme.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAADgv6kAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:25:38.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AtualizarFilme.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\AtualizarFilme.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\AtualizarFilme.Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\AtualizarFilme.Designer.cs",
+              "RelativeToolTip": "CadastroCliente\\AtualizarFilme.Designer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAADgv54AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:25:38.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "cadastrarFilme2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme2.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\cadastrarFilme2.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme2.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\cadastrarFilme2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:23:58.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TelaLoading.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\TelaLoading.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\TelaLoading.Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\TelaLoading.Designer.cs",
+              "RelativeToolTip": "CadastroCliente\\TelaLoading.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADgv1sAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:25:55.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "cadastrarFilme.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\cadastrarFilme.Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme.Designer.cs",
+              "RelativeToolTip": "CadastroCliente\\cadastrarFilme.Designer.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAADgv7kAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:22:44.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Atualizar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Atualizar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Atualizar.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Atualizar.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\Atualizar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:22:40.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "cadastrarFilme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\cadastrarFilme.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\cadastrarFilme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T12:46:35.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "cadastrarFilme.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\cadastrarFilme.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme.cs",
+              "RelativeToolTip": "CadastroCliente\\cadastrarFilme.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T12:46:40.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "cadastrarFilme2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme2.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\cadastrarFilme2.Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\cadastrarFilme2.Designer.cs",
+              "RelativeToolTip": "CadastroCliente\\cadastrarFilme2.Designer.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAADgv7MAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:22:01.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Consultar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\cinemacsharpv2\\cinemacsharpv2-main\\CadastroCliente\\Consultar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\Consultar.cs",
+              "ToolTip": "C:\\Users\\gabriel.mfernandes4\\source\\repos\\CINEMA\\CadastroCliente\\Consultar.cs [Design]",
+              "RelativeToolTip": "..\\..\\CINEMA\\CadastroCliente\\Consultar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:36:57.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

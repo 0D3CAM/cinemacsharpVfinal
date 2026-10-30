@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|c:\\users\\usuario\\downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\cadastrocliente\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\cadastrocliente\\telaloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\telaloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\cadastrocliente\\telaloading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\telaloading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\cadastrocliente\\loginadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\loginadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\cadastrocliente\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\cadastrocliente\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AAA09C6-EE42-48AD-A095-F0F43FF86622}|CadastroCliente\\PainelAdmin.csproj|solutionrelative:cadastrocliente\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 270,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 101,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelaLoading.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\TelaLoading.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\TelaLoading.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\TelaLoading.cs",
+              "RelativeToolTip": "CadastroCliente\\TelaLoading.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:55:38.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\LoginAdmin.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\LoginAdmin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\LoginAdmin.cs",
+              "RelativeToolTip": "CadastroCliente\\LoginAdmin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:52:14.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\LoginAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\LoginAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\LoginAdmin.Designer.cs",
+              "RelativeToolTip": "CadastroCliente\\LoginAdmin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:53:28.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelaLoading.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\TelaLoading.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\TelaLoading.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\TelaLoading.Designer.cs",
+              "RelativeToolTip": "CadastroCliente\\TelaLoading.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:50:36.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\DAO.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\DAO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\DAO.cs",
+              "RelativeToolTip": "CadastroCliente\\DAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:50:58.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\LoginAdmin.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\LoginAdmin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\cinemacsharpv2-main\\cinemacsharpv2-main\\CadastroCliente\\LoginAdmin.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\LoginAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:52:10.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
